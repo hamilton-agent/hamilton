@@ -83,6 +83,6 @@ you ──► Hamilton (Claude, adaptive thinking)
 
 ## $HAMILTON
 
-The project token launches on Pons. Contract on [the site](https://hamilton.run) once live.
+The project token launches on Pons. Contract on [the site](https://hamilton-site-sand.vercel.app) once live.
 
 Apache-2.0.
