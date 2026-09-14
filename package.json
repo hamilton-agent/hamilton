@@ -1,0 +1,30 @@
+{
+  "name": "hamilton-agent",
+  "version": "0.1.0",
+  "description": "Hamilton, the AI agent with a wallet on Robinhood Chain. Researches and trades stock tokens and Pons memes, every trade approved by you.",
+  "type": "module",
+  "bin": {
+    "hamilton": "src/cli.js"
+  },
+  "engines": {
+    "node": ">=20.19"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamilton-agent/hamilton.git"
+  },
+  "keywords": [
+    "ai-agent",
+    "wallet",
+    "robinhood-chain",
+    "pons",
+    "uniswap-v4",
+    "claude",
+    "telegram"
+  ],
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.125.0",
+    "viem": "^2.21.55"
+  }
+}
